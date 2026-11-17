@@ -17,6 +17,7 @@ class Solution:
             i += 1
             k += 1
 
+        
         while j < len(right):
             mergedArray[k] = right[j]
             j += 1
