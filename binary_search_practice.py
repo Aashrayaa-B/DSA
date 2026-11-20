@@ -10,7 +10,6 @@ low = 0
 # high stores the index of the last element
 # len(nums) counts the elements (8), so subtract 1 to get index 7
 high = len(nums) - 1
-
 # Continue searching while the search range is valid
 while low <= high:
 
