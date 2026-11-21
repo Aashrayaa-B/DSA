@@ -7,7 +7,6 @@ class Solution:
         for num in nums:
             total = total + num
             result.append(total)
-
         return result
 s = Solution()
 print(s.runningSum([2, 5, 1]))
